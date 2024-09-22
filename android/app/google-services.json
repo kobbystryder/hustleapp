@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722313898619",
+    "project_id": "hustle-app-afab0",
+    "storage_bucket": "hustle-app-afab0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722313898619:android:89545050a7f2806669d0de",
+        "android_client_info": {
+          "package_name": "com.example.hustle_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-nw4ednR1q_wKABL57-NusRHS4DPpYBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
